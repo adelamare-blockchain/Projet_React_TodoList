@@ -1,4 +1,4 @@
-# React_todoList
+# React_TodoList
 
 In this repository you will find my very first Believemy React trial for a todoList-app (with Axios Requests and Firebase Realtime Database) to learn the basics of the React.js framework.
 
